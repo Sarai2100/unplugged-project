@@ -576,11 +576,11 @@ input[type=button] {
   }
 
   .reviews h2 {
-    width: 85%;
+    width: 82%;
   }
 
 
-  .reviews article figure,  
+  .reviews article figure,
   .reviews article div {
     width: 49%;
   }
@@ -672,6 +672,7 @@ input[type=button] {
 }
 /* Desktop Style Here */
 @media only screen and (min-width: 1200px) {
+  
   .content-wrapper {
     max-width: 960px;
     
@@ -680,7 +681,7 @@ input[type=button] {
   /* Header */
 
   header {
-    padding: 15px 0 15px 0;
+    padding: 15px 0;
   }
 
   h2 {
