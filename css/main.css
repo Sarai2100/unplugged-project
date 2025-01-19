@@ -98,6 +98,7 @@ textarea {
   font-size: 1em;
   text-align: left;
   color: #e2e3ed;
+  background-color: #202322;
   }
 
   ul,
@@ -305,7 +306,7 @@ input[type=button] {
 /* Features */
 
 .features {
-  background: url('/img/unplugged-retreat-features.jpg');
+  background: url('../img/unplugged-retreat-features.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -402,11 +403,11 @@ input[type=button] {
 }
 
 .faq .content-wrapper {
+  margin: 50px 0 0 0;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   flex-flow: row wrap;
-  margin: 50px 0 0 0;
 }
 
 .faq h2 {
